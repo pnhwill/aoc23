@@ -17,3 +17,6 @@ venv.bak/
 
 # Mac
 .DS_Store
+
+# Binaries
+day1/day1-will
