@@ -20,3 +20,7 @@ venv.bak/
 
 # Binaries
 day1/day1-will
+day1/day1-c
+
+# Debug symbols
+*.dSYM
